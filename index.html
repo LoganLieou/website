@@ -4,8 +4,8 @@
 
 <main>
     <img src="static/rabbit.png" width="100"/>
-    <h1>Logan Jackson</h1>
-    <h2>About Me</h2>
+    <h1 class="my-4">Logan Jackson</h1>
+    <h2 class="my-4">About Me</h2>
     <p>
         Student at the University of Texas - Dallas & Current Software
         Engineering Intern at Tyler Technologies.
@@ -17,13 +17,17 @@
 
     <h2>Ongoing Projects</h2>
     <ul>
+        <li><b>This Website</b></li>
+        <p>
+            I will try and consistantly update this website with new information.
+        </p>
         <li><b>Quantitative Risk Assessment Model for Hauling in Eve Online</b></li> 
         <p>
             There's a paper on this being written Eve is such a cool game.
         </p>
         <li><b>Game Theory Optimized Poker Bot</b></li>
         <p>
-            I may turn this into a chess bot.
+            Poker is a pretty interesting game.
         </p>
         <li><b>Algol 60</b></li>
         <p>
@@ -60,39 +64,14 @@
     </ul>
     <h2>Three.js Test</h2>
     <canvas id="canvas" style="margin-bottom:2%"></canvas>
-    <script  type="importmap">
-    {
-        "imports": {
-            "three": "https://threejs.org/build/three.module.js"
-        }
-    }
-    </script>
-    <script type="module">
-        import * as THREE from 'three';
-
-        const canvas = document.querySelector('#canvas');
-        const scene = new THREE.Scene();
-        const renderer = new THREE.WebGLRenderer({antialias: true, canvas});
-        renderer.setClearColor(0xffffff);
-
-        const camera = new THREE.PerspectiveCamera(75, 2, 0.1, 5);
-        camera.position.z = 2;
-
-        // make cube
-        const geometry = new THREE.BoxGeometry(1, 1, 1);
-        const material = new THREE.MeshBasicMaterial({color: 0x44aa88});
-        const cube = new THREE.Mesh(geometry, material);
-
-        scene.add(cube);
-
-        function animate() {
-            requestAnimationFrame(animate);
-
-            cube.rotation.x += 0.01;
-            cube.rotation.y += 0.01;
-
-            renderer.render(scene, camera);
-        }
-        animate();
-    </script>
+    <script type="importmap">
+			{
+				"imports": {
+					"three": "../build/three.module.js",
+					"three/addons/": "./jsm/"
+				}
+			}
+		</script>
+    <!-- need to update this -->
+    <script src="script.js" type="module"></script>
 </main>
