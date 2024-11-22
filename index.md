@@ -13,19 +13,22 @@ Engineering Intern at Tyler Technologies.
 [Writings](./writings.md)<br/>
 [Notes](https://loganlieou.github.io/Fall2024)<br/>
 
-## Ongonig Projects
+## Ongoing Projects
 
 - **This Website**<br/>
     I will try and consistantly update this website with new information.
 
-- **Websocket Server**<br/>
-    I am still deciding on this one how I am going to do this
+- **Chipotle**</br>
+    Library for interacting with chipotle services.
 
 - **Quantitative Risk Assessment Model for Hauling in Eve Online**<br/>
-    There's a paper on this being written Eve is such a cool game.
+    Inprogress risk model.
 
 - **Game Theory Optimized Poker Bot**<br/>
     Poker is a pretty interesting game.
+
+- **AWS Lambda runtime for OCaml**</br>
+    Modern OCaml 5.2 runtime for AWS Lambda
 
 - **Algol 60**<br/>
     The ALGOL60 programming language compiler using flex, bison, and llvm.
@@ -36,6 +39,10 @@ Engineering Intern at Tyler Technologies.
 
 
 ## Completed Projects
+- **Gapped**</br>
+    Vim plugin for farming commits
+- **usa-zipcoder**</br>
+    Geocoding for zipcodes in the United States
 - **PSP Video Converter**<br/>
     MP4 isn't fully compatible with UMD this script converts any video
     to UMD compatible MP4 using FFMPEG.
