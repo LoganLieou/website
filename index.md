@@ -15,22 +15,22 @@ Engineering Intern at Tyler Technologies.
 
 ## Ongoing Projects
 
-- **This Website**<br/>
+- **This Website**
     I will try and consistantly update this website with new information.
 
-- **Chipotle**</br>
+- **Chipotle**
     Library for interacting with chipotle services.
 
-- **Quantitative Risk Assessment Model for Hauling in Eve Online**<br/>
+- **Quantitative Risk Assessment Model for Hauling in Eve Online**
     Inprogress risk model.
 
-- **Game Theory Optimized Poker Bot**<br/>
+- **Game Theory Optimized Poker Bot**
     Poker is a pretty interesting game.
 
-- **AWS Lambda runtime for OCaml**</br>
+- **AWS Lambda runtime for OCaml**
     Modern OCaml 5.2 runtime for AWS Lambda
 
-- **Algol 60**<br/>
+- **Algol 60**
     The ALGOL60 programming language compiler using flex, bison, and llvm.
 
 - **SNES9X 3DS - Pixel Perfect**
@@ -39,19 +39,19 @@ Engineering Intern at Tyler Technologies.
 
 
 ## Completed Projects
-- **Gapped**</br>
+- **Gapped**
     Vim plugin for farming commits
-- **usa-zipcoder**</br>
+- **usa-zipcoder**
     Geocoding for zipcodes in the United States
-- **PSP Video Converter**<br/>
+- **PSP Video Converter**
     MP4 isn't fully compatible with UMD this script converts any video
     to UMD compatible MP4 using FFMPEG.
-- **Wireframe Renderer**<br/>
+- **Wireframe Renderer**
     Renders .obj files as wireframes outputting in tga image format.
-- **TGA**<br/>
+- **TGA**
     An implementation of the TGA image format in C for use in my other
     projects.
-- **Bulk Delete**<br/>
+- **Bulk Delete**
     Desktop application written in Java swing to do various
     functionality that GitHub doesn't support out of the box i.e. Bulk
     Deleting repos.
