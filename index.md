@@ -6,14 +6,16 @@
 
 # About Me
 
-Student at the University of Texas - Dallas & Current Software
-Engineering Intern at Tyler Technologies.
+Student at the University of Texas - Dallas & Incomming Sofware Engineering Intern at JPMorgan.
 
 [Resume](./static/Resume.pdf)<br/>
 [Writings](./writings.md)<br/>
 [Notes](https://loganlieou.github.io/Fall2024)<br/>
 
 ## Ongoing Projects
+
+- **Gtkcaml**
+    GTK4 bindings for Ocaml
 
 - **This Website**
     I will try and consistantly update this website with new information.
@@ -39,6 +41,8 @@ Engineering Intern at Tyler Technologies.
 
 
 ## Completed Projects
+- **dune_config**
+    pkg-config for dune because configurator is kinda cringe
 - **Gapped**
     Vim plugin for farming commits
 - **usa-zipcoder**
