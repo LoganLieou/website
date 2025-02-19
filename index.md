@@ -6,7 +6,7 @@
 
 # About Me
 
-Student at the University of Texas - Dallas & Incomming Sofware Engineering Intern at JPMorgan.
+Student at the University of Texas - Dallas & Incoming Sofware Engineering Intern at JPMorgan.
 
 [Resume](./static/Resume.pdf)<br/>
 [Writings](./writings.md)<br/>
