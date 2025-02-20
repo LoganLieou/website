@@ -6,13 +6,18 @@
 
 # About Me
 
-Student at the University of Texas - Dallas & Incoming Sofware Engineering Intern at JPMorgan.
+Student at the University of Texas - Dallas & Incoming Software Engineering Intern at JPMorgan.
 
 [Resume](./static/Resume.pdf)<br/>
 [Writings](./writings.md)<br/>
-[Notes](https://loganlieou.github.io/Fall2024)<br/>
 
 ## Ongoing Projects
+
+- **Coinfishing**
+    Simulating markets, and adding more gambling to WEBFISHING
+
+- **Gnuplot**
+    Plotting library for C++
 
 - **Gtkcaml**
     GTK4 bindings for Ocaml
@@ -22,9 +27,6 @@ Student at the University of Texas - Dallas & Incoming Sofware Engineering Inter
 
 - **Chipotle**
     Library for interacting with chipotle services.
-
-- **Quantitative Risk Assessment Model for Hauling in Eve Online**
-    Inprogress risk model.
 
 - **Game Theory Optimized Poker Bot**
     Poker is a pretty interesting game.
@@ -59,3 +61,5 @@ Student at the University of Texas - Dallas & Incoming Sofware Engineering Inter
     Desktop application written in Java swing to do various
     functionality that GitHub doesn't support out of the box i.e. Bulk
     Deleting repos.
+- **TL13**
+    The TL13 Language compiler written using flex and bison
